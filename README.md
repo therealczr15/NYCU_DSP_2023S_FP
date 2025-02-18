@@ -1,1 +1,1 @@
-# NYCU_DSP_2023_Spring
+# NYCU Digital Signal Processing 2023 Spring
